@@ -1,0 +1,10 @@
+A maven archetype to create a single-jar application.
+
+It has the following features:
+
+1. Buildnumber/version accessible from within application
+2. Logging and other basic dependancies included.
+
+Usage:
+
+mvn archetype:generate -Dfilter=com.matthewjosephtaylor.archetype:application-archetype
