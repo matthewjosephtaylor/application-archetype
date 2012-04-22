@@ -21,7 +21,7 @@
 
 	<scm>
 		<connection>scm:git:git@github.com:matthewjosephtaylor/application-archetype.git</connection>
-		<developerConnection>scm:git:git@github.com:matthewjosephtaylor/applicationa-archetype.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:matthewjosephtaylor/application-archetype.git</developerConnection>
 		<url>scm:giturl:git@github.com:matthewjosephtaylor/application-archetype.git</url>
 	</scm>
 
